@@ -1,7 +1,7 @@
 <div  align="center">
 <h1>Welcome ! :wave:</h1>
 
-<p>Second-year master's student in computer security, networks and virtual architectures.</p>
+<p>Second-year master's student in computer security, networks, and virtual architectures.</p>
 <p>This GitHub gathers my main university projects.</p>
 
 <h3>Languages</h3>
