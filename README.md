@@ -122,6 +122,6 @@
   
 <div id="badges">
   <a href="https://tryhackme.com/p/Louis.LESNIAK">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Louis.LESNIAK.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Louis.LESNIAK.png?" alt="TryHackMe">
   </a>
 </div>
